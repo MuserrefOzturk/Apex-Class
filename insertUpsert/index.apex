@@ -1,4 +1,4 @@
-public class Calc {
+public class Accnt {
     
     public static boolean acc ( string name, List<Contact> multi){
         Account A =new Account();
